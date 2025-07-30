@@ -6,27 +6,27 @@ A web application that allows users to upload YouTube video URLs or real-time vi
 
 ---
 
-## 🔑 Key Features
+## Key Features
 
-- 🎥 Real-time video processing and transcription  
-- 🌍 Multi-language support  
-- 🧠 Summarized output with key points  
-- 📺 Supports YouTube video URLs and live video links  
-- ⚡ Fast, responsive interface using WebSockets  
-
----
-
-## 🛠️ Technologies Used
-
-- **Python**
-- **FastAPI** – Backend API framework  
-- **Whisper** – For speech recognition and transcription  
-- **WebSockets** – For real-time communication  
-- **HTML/CSS/JavaScript** – Frontend  
+- Real-time video processing and transcription  
+- Multi-language support  
+- Summarized output with key points  
+- Supports YouTube video URLs and live video links  
+- Fast, responsive interface using WebSockets  
 
 ---
 
-## 🚀 How to Run the Project
+## Technologies Used
+
+- Python  
+- FastAPI – Backend API framework  
+- Whisper – For speech recognition and transcription  
+- WebSockets – For real-time communication  
+- HTML/CSS/JavaScript – Frontend  
+
+---
+
+## How to Run the Project
 
 ### 1. Clone the Repository
 
